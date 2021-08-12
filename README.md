@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To get a list of directory contents execute:
+
+    $ ls_command
 
 ## Development
 
@@ -32,4 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ls_command.
+Bug reports and pull requests are welcome on GitHub at https://github.com/taitsulya/ls_command.
