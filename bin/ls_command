@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'ls_command'
+puts LsCommand::ls
