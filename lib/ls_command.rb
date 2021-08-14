@@ -5,7 +5,7 @@ require_relative 'ls_command/version'
 
 module LsCommand
   class Error < StandardError; end
-  # Your code goes here...
+
   def self.ls
     current_dir = Dir.pwd
     Dir.children(current_dir).map do |entry|
